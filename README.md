@@ -1,16 +1,22 @@
-### Hi there 👋
+# Grupo de Processamento Gráfico - GPG
 
-<!--
-**gpgufrr/gpgufrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+O Grupo de Processamento Gráfico - GPG da Universidade Federal de Roraima (UFRR) possui como objetivo estudar os processos e técnicas computacionais que envolvem modelos geométricos e imagens digitais. Nesse sentido, o grupo se predispõe a contribuir para o aprimoramento técnico das áreas da Computação Gráfica, Processamento de Imagens e Visão Computacional, criando soluções para problemáticas da nossa sociedade. As aplicações das pesquisas dessas áreas são inúmeras, como por exemplo, na área de saúde, educação, entretenimento, segurança, cultura, entre outras. Sendo assim, por meio de orientações de alunos, e troca de experiências entre os docentes, os pesquisadores que compõem o GPG - UFRR, visam disseminar o conhecimento destas áreas e contribuir para a evolução socioeconômica da região Norte, através do desenvolvimento de novas tecnologias, teorias e técnicas computacionais nesse campo.
 
-Here are some ideas to get you started:
+## 📫 Contato
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Lattes Badge](img/badge-lattes.svg)](http://dgp.cnpq.br/dgp/espelhogrupo/709873)
+[![Gmail](img/badge-gmail.svg)](mailto:fsluciano.ufrr@gmail.com)
+
+## 🏬 Pesquisadores
+
+👨‍🔬 Lindeval Fernandes de Lima <br>
+👨‍🔬 Luciano Ferreira Silva <br>
+👨‍🔬 Marcelo Henrique Oliveira Henklain <br>
+
+## 🔬 Linhas de Pesquisa
+
+📃 Ciência de Dados Aplicada ao Mapeamento de Interesses e Trajetórias Profissionais em Computação <br>
+📃 Interfaces Humano-Computador e gamificação <br>
+📃 Processamento de Imagens e Visão Computacional <br>
+📃 Projeto e Desenvolvimento de Jogos Digitais <br>
+📃 Realidade Virtual e Aumentada <br>
